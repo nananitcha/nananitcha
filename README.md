@@ -1,26 +1,35 @@
-## Hi there 👋
-
+# Hi, I'm Nana!!👋
 **Based in Bangkok, Thailand** | Welcome to my GitHub profile!
+</div>
 
-## *Languages & Libraries*
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/-Framer-0055FF?style=flat&logo=framer&logoColor=white&style=for-the-badge"/>
+## About Me
+I picked up C++ back in 2017, but it wasn't until medical school that programming truly clicked for me. 
+I'm now aspiring to build skills to bridge medicine and technology, with a focus on backend systems and data management that could one day power real healthcare tools!!!
 
-## **Featured Projects**
-- [Project 1](https://github.com/yourusername/project1): nope.
+💻 Transitioning from casual frontend tinkering → serious backend development\
+🤝 Part of a small circle of med friends who code
 
-## 2D Softwares (pro!!)
-<img src="https://img.shields.io/badge/-Adobe Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/-Adobe Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/-Adobe Lightroom-31A8FF?style=flat&logo=adobelightroom&logoColor=white&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/-Adobe Premiere Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white&style=for-the-badge"/>
+### *Languages & Libraries & Frameworks*
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Framer-0055FF?logo=framer&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Mantine-339AF0?logo=mantine&logoColor=white&style=for-the-badge"/>
 
-## 3D Softwares
-<img src="https://img.shields.io/badge/-Blender-E87D0D?style=flat&logo=blender&logoColor=white&style=for-the-badge"/>
+### **Featured Projects** (official only)
+- [BELONGINGS!] (not published yet): casaul-coded app with one of my fellow
+- [AMSci Website 2026]
 
+<br>
+
+## Software Skils
+### ~10 years
+Adobe Illustrator, Adobe Photoshop, Adobe Premiere Pro, Adobe Lightroom
+
+</div>
+
+### 5 years up
+<img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/> <img src="https://img.shields.io/badge/davinci_resolve-%23233A51.svg?&logo=davinciresolve&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?&logo=figma&logoColor=white&style=for-the-badge"/>
 
 ## **GitHub Stats** 
 ! [GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
@@ -28,4 +37,4 @@
 ## **My Education**
 - Faculty of Medicine, Chulalongkorn University ; 2024-Present
 - Triam Udom Suksa School, Sci-Math ; 2021-2024
--  Patumwan Demonstration School ; 2017-2020
+- Patumwan Demonstration School ; 2017-2020
