@@ -15,6 +15,8 @@ I'm now aspiring to build skills to bridge medicine and technology, with a focus
 <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/-Framer-0055FF?logo=framer&logoColor=white&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/-Mantine-339AF0?logo=mantine&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Tailwind-4EB9FA?logo=tailwindcss&logoColor=white&style=for-the-badge"/>
+
 
 ### **Featured Projects** (official only)
 - [BELONGINGS!] (not published yet): casaul-coded app with one of my fellow
