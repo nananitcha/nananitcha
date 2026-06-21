@@ -6,7 +6,7 @@
 I picked up C++ back in 2017, but it wasn't until medical school that programming truly clicked for me. 
 I'm now aspiring to build skills to bridge medicine and technology, with a focus on backend systems and data management that could one day power real healthcare tools!!!
 
-💻 Transitioning from casual frontend tinkering → serious backend development\
+💻 being frontend for a few years && still learning on backend development\
 🤝 Part of a small circle of med friends who code in my campus IT division 
 
 ### *Languages & Libraries & Frameworks*
