@@ -18,9 +18,11 @@ I'm now aspiring to build skills to bridge medicine and technology, with a focus
 <img src="https://img.shields.io/badge/-Tailwind-4EB9FA?logo=tailwindcss&logoColor=white&style=for-the-badge"/>
 
 
-### **Featured Projects** (only official ones)
+### **Projects**
 - [BELONGINGS!] (not published yet): casaul-coded app with one of my fellow
+- [MDCU Syringe Website] : (not published yet): just a draft
 - [AMSci 2026 Website] : https://github.com/docchula/amsci (@docchula.com) space-themed website for medical quiz contest hosted by my campus
+- currently on [MDCU Merch Website] : (@docchula.com) pom pen frontend krub. Backend part is his work entirely ->>>> https://github.com/PanuwitPuk/mdcu-merch
 
 <br>
 
