@@ -1,4 +1,4 @@
-# FORK TEST KRUB Hi, I'm Nana!!👋
+# Hi, I'm Nana!!👋
 **Based in Bangkok, Thailand** | Welcome to my GitHub profile!
 </div>
 
@@ -20,8 +20,7 @@ I'm now aspiring to build skills to bridge medicine and technology, with a focus
 
 ### **Featured Projects** (only official ones)
 - [BELONGINGS!] (not published yet): casaul-coded app with one of my fellow
-- [AMSci 2026 Website] : (@docchula.com) space-themed website for medical quiz contest hosted by my campus
-- [MDCU Merch 2026 Website]: (@docchula.com) Merchandise online-buying website
+- [AMSci 2026 Website] : https://github.com/docchula/amsci (@docchula.com) space-themed website for medical quiz contest hosted by my campus
 
 <br>
 
